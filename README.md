@@ -1,4 +1,4 @@
-# laravel_air_lock
+# laravel_sanctum
 Laravel Airlock &amp;  Testing 
 
 ## Testing Laravel Airlock
@@ -7,4 +7,4 @@ Laravel Airlock &amp;  Testing
 - composer install
 - php artisan serve
 
-Reference from [Laravel Airlock Documentation](https://laravel.com/docs/7.x/airlock)
+Reference from [Laravel Sanctum Documentation](https://laravel.com/docs/7.x/sanctum)
